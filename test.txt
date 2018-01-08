@@ -1,3 +1,7 @@
 test
 gavin
+<<<<<<< HEAD
 hehe
+=======
+eric
+>>>>>>> ab6099c5f3ca1fa90e2a317355562c5e367b9aa6
